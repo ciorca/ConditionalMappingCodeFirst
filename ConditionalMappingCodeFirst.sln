@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalMappingCodeFirst", "ConditionalMappingCodeFirst\ConditionalMappingCodeFirst.csproj", "{9DD0ADEC-BFFF-42AF-BB86-E505243953D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD0ADEC-BFFF-42AF-BB86-E505243953D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD0ADEC-BFFF-42AF-BB86-E505243953D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD0ADEC-BFFF-42AF-BB86-E505243953D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD0ADEC-BFFF-42AF-BB86-E505243953D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED9A84E-A2DB-47A1-AF1C-0987B8B92F7E}
+	EndGlobalSection
+EndGlobal
